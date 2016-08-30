@@ -1,0 +1,60 @@
+::-webkit-input-placeholder {color: black;}
+::-moz-placeholder          {color: black;}
+:-moz-placeholder           {color: black;}
+:-ms-input-placeholder      {color: black;}
+
+.form__container{
+	width: 50%;
+	padding: 20px;
+	.form__title{
+		text-align: center;
+		margin: 20px;
+		padding: 0;
+		font: 40px oswald--extra--light, sans-serif;
+	}
+	form{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+		width: 100%;
+		input[type=text],
+		input[type=password],
+		input[type=email]{
+			width: 100%;
+			margin: 20px;
+			font: 15px oswald, sans-serif;
+			color: black;
+			border-radius: 1px;
+			padding: 15px;
+			letter-spacing: 1px;
+			border: 1px solid $indigo;
+			background: none;
+			&:focus{
+				outline: none;
+				border: 1px solid $orange;
+			}
+		}
+	}
+}
+
+.button{
+	width: 100%;
+	margin: 20px;
+	font: 15px oswald, sans-serif;
+	color: white;
+	border-radius: 1px;
+	padding: 10px;
+	letter-spacing: 1px;
+	border: none;
+	background: $blue;
+	opacity: .9;
+	&:hover{
+		opacity: 1;
+		cursor: pointer;
+	}
+}
+
+.form--green{
+	border: 1px solid $green !important;
+}

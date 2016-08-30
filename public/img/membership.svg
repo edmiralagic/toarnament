@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1696px" height="1199px" viewBox="0 0 1696 1199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Membership</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Membership" sketch:type="MSArtboardGroup">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(60.000000, 47.000000)">
+                <g id="Why-become-a-member?-+-Line" transform="translate(222.000000, 0.000000)">
+                    <text id="Why-become-a-member?" sketch:type="MSTextLayer" font-family="Oswald" font-size="120" font-weight="420" fill="#424242">
+                        <tspan x="1" y="131">Why become a member?</tspan>
+                    </text>
+                    <path d="M0,196 L1124.5,196" id="Line" stroke="#2196F3" stroke-width="3" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                </g>
+                <g transform="translate(0.000000, 333.000000)">
+                    <g id="games" transform="translate(210.000000, 150.000000) scale(-1, 1) translate(-210.000000, -150.000000) translate(60.000000, 0.000000)" sketch:type="MSShapeGroup">
+                        <g id="Page-1">
+                            <g id="XMLID_1_">
+                                <path d="M0,0 L0,300 L300,300 L300,0 L0,0 L0,0 Z M287.5,200 C287.5,213.75 276.25,225 262.5,225 L37.5,225 C23.75,225 12.5,213.75 12.5,200 L12.5,100 C12.5,86.25 23.75,75 37.5,75 L262.5,75 C276.25,75 287.5,86.25 287.5,100 L287.5,200 L287.5,200 Z" id="XMLID_2_"></path>
+                                <g id="XMLID_5_" transform="translate(12.500000, 75.000000)" fill="#424242">
+                                    <path d="M250,0 L25,0 C11.25,0 0,11.25 0,25 L0,125 C0,138.75 11.25,150 25,150 L250,150 C263.75,150 275,138.75 275,125 L275,25 C275,11.25 263.75,0 250,0 L250,0 L250,0 Z M125,87.5 L87.5,87.5 L87.5,125 L62.5,125 L62.5,87.5 L25,87.5 L25,62.5 L62.5,62.5 L62.5,25 L87.5,25 L87.5,62.5 L125,62.5 L125,87.5 L125,87.5 Z M181.25,112.5 C170.875,112.5 162.5,104.125 162.5,93.75 C162.5,83.375 170.875,75 181.25,75 C191.625,75 200,83.375 200,93.75 C200,104.125 191.625,112.5 181.25,112.5 L181.25,112.5 L181.25,112.5 Z M231.25,75 C220.875,75 212.5,66.625 212.5,56.25 C212.5,45.875 220.875,37.5 231.25,37.5 C241.625,37.5 250,45.875 250,56.25 C250,66.625 241.625,75 231.25,75 L231.25,75 L231.25,75 Z" id="XMLID_11_"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="money" transform="translate(644.000000, 0.000000)" sketch:type="MSShapeGroup">
+                        <g id="Page-1">
+                            <g id="ic_attach_money_black_48px">
+                                <path d="M147.5,136.25 C119.125,128.875 110,121.25 110,109.375 C110,95.75 122.625,86.25 143.75,86.25 C166,86.25 174.25,96.875 175,112.5 L202.625,112.5 C201.75,91 188.625,71.25 162.5,64.875 L162.5,37.5 L125,37.5 L125,64.5 C100.75,69.75 81.25,85.5 81.25,109.625 C81.25,138.5 105.125,152.875 140,161.25 C171.25,168.75 177.5,179.75 177.5,191.375 C177.5,200 171.375,213.75 143.75,213.75 C118,213.75 107.875,202.25 106.5,187.5 L79,187.5 C80.5,214.875 101,230.25 125,235.375 L125,262.5 L162.5,262.5 L162.5,235.625 C186.875,231 206.25,216.875 206.25,191.25 C206.25,155.75 175.875,143.625 147.5,136.25 L147.5,136.25 L147.5,136.25 Z" id="Shape" fill="#424242"></path>
+                                <path d="M0,0 L300,0 L300,300 L0,300 L0,0 L0,0 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="easyToUse" transform="translate(1378.000000, 150.000000) scale(-1, 1) translate(-1378.000000, -150.000000) translate(1228.000000, 0.000000)" sketch:type="MSShapeGroup">
+                        <g id="Page-1">
+                            <g id="ic_computer_black_48px">
+                                <path d="M0,0 L300,0 L300,300 L0,300 L0,0 L0,0 Z" id="Shape"></path>
+                                <path d="M250,225 C263.75,225 274.875,213.75 274.875,200 L275,75 C275,61.25 263.75,50 250,50 L50,50 C36.25,50 25,61.25 25,75 L25,200 C25,213.75 36.25,225 50,225 L0,225 L0,250 L300,250 L300,225 L250,225 L250,225 Z M50,75 L250,75 L250,200 L50,200 L50,75 L50,75 Z" id="Shape" fill="#424242"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="EASY-TO-USE" sketch:type="MSTextLayer" font-family="Oswald" font-size="40" font-weight="420" fill="#2196F3">
+                        <tspan x="1280" y="376">EASY TO USE</tspan>
+                    </text>
+                    <text id="FREE-TOURNAMENTS-DAI" sketch:type="MSTextLayer" font-family="Oswald" font-size="40" font-weight="420" fill="#2196F3">
+                        <tspan x="589" y="376">FREE TOURNAMENTS DAILY</tspan>
+                    </text>
+                    <text id="NON-STOP-TOURNAMENTS" sketch:type="MSTextLayer" font-family="Oswald" font-size="40" font-weight="420" fill="#2196F3">
+                        <tspan x="11" y="376">NON-STOP TOURNAMENTS</tspan>
+                    </text>
+                    <text id="We-plan-to-have-tour" sketch:type="MSTextLayer" font-family="Oswald" font-size="40" font-weight="420" sketch:alignment="middle" fill="#424242">
+                        <tspan x="82.7539062" y="463">We plan to have </tspan>
+                        <tspan x="3.19335938" y="518">tournaments running non-</tspan>
+                        <tspan x="6.03515625" y="573">stop on our site, so that if </tspan>
+                        <tspan x="36.0449219" y="628">you miss one you’ll be </tspan>
+                        <tspan x="42.1875" y="683">able to play the next!</tspan>
+                    </text>
+                    <text id="We-plan-to-have-tour-Copy" sketch:type="MSTextLayer" font-family="Oswald" font-size="40" font-weight="420" sketch:alignment="middle" fill="#424242">
+                        <tspan x="671.753906" y="463">We plan to have </tspan>
+                        <tspan x="592.193359" y="518">tournaments running non-</tspan>
+                        <tspan x="595.035156" y="573">stop on our site, so that if </tspan>
+                        <tspan x="625.044922" y="628">you miss one you’ll be </tspan>
+                        <tspan x="631.1875" y="683">able to play the next!</tspan>
+                    </text>
+                    <text id="We-plan-to-have-tour-Copy-2" sketch:type="MSTextLayer" font-family="Oswald" font-size="40" font-weight="420" sketch:alignment="middle" fill="#424242">
+                        <tspan x="1255.75391" y="463">We plan to have </tspan>
+                        <tspan x="1176.19336" y="518">tournaments running non-</tspan>
+                        <tspan x="1179.03516" y="573">stop on our site, so that if </tspan>
+                        <tspan x="1209.04492" y="628">you miss one you’ll be </tspan>
+                        <tspan x="1215.1875" y="683">able to play the next!</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

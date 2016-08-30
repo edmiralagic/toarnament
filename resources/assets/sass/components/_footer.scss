@@ -1,0 +1,24 @@
+footer{
+	bottom: 0;
+	left: 0;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: $dark-grey;
+	font: 12px oswald--light, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: white;
+	.footer--section{
+		width: 80%;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		img{
+			width: 30px;
+		}
+	}
+}

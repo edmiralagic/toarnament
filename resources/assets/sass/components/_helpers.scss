@@ -1,0 +1,23 @@
+.button--splash {
+	margin: 0;
+	padding: 25px 0 0 0;
+	display: flex;
+	img {
+		height: 100px;
+	}
+	&:hover {
+		cursor: pointer;
+	}
+}
+
+.bottom--margin--scrolled{
+	margin-bottom: 100px;
+}
+
+.background--lightgrey{
+	background: $light-grey;
+}
+
+.align--left{
+	justify-content: flex-start !important;
+}

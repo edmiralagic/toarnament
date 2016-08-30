@@ -1,0 +1,65 @@
+@import 'components/all';
+
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+::selection {
+  background: $blue;
+  color: white;
+}
+::-moz-selection {
+  background: $blue;
+  color: white;
+}
+
+body,html {
+	height: 100%;
+	width: 100%;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	border-radius: 0;
+}
+
+h1 {
+	padding: 0;
+	margin: 0;
+	font: 100px oswald--extra--light, sans-serif;
+	color: white;
+}
+
+h2 {
+	font: 4em oswald--extra--light, sans-serif;
+}
+
+.container{
+	margin: 0;
+	width: 100%;
+	padding: 20px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	&:first-of-type{
+		margin-top: 50px;
+	}
+}
+
+.container--splash{
+	height: 100vh;
+	background: linear-gradient(180deg, $blue, $indigo);
+	margin-top: 0 !important;
+}
+
+.section{
+	width: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+
