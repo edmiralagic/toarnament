@@ -28,7 +28,7 @@
         <div class="footer--section">
             Toarnament.com
             <img src=" {{ asset('img/whiteLogo.svg') }} ">
-            2015 &copy; Edmir &amp; Luke
+            2016 &copy; Edmir Alagic
         </div>
     </footer>
 </html>
